@@ -1,4 +1,4 @@
-<p style="text-align:center;">English | [简体中文](./README_CN.md)</p>
+<p align="center">English | [简体中文](./README_CN.md)</p>
 # vertexai-cf-workers
 
 ## Prerequisites
